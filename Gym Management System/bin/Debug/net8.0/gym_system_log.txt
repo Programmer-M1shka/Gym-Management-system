@@ -1,0 +1,31 @@
+2/26/2025 11:39:01 PM - წევრის რეგისტრაცია: დარეგისტრირდა წევრი: misho xaritonashvili
+2/26/2025 11:41:01 PM - წევრის განახლება: განახლდა წევრი: Mishka Kharitonashvili
+2/26/2025 11:41:39 PM - წევრის სტატუსის ცვლილება: წევრის სტატუსი შეიცვალა: Mishka Kharitonashvili -> Expired
+2/27/2025 3:54:22 AM - მწვრთნელის დამატება: დაემატა მწვრთნელი: Giorgi Narikashvili
+2/27/2025 3:55:51 AM - მწვრთნელის განახლება: განახლდა მწვრთნელი: misho xaritonashvili
+2/27/2025 4:18:45 AM - მწვრთნელის დეაქტივაცია: დეაქტივირებული მწვრთნელი: misho xaritonashvili
+2/27/2025 4:19:00 AM - მწვრთნელის დეაქტივაცია: დეაქტივირებული მწვრთნელი: gigi mamatsashvili
+2/27/2025 4:23:51 AM - მწვრთნელის განახლება: განახლდა მწვრთნელი: misho xaritonashvili
+2/27/2025 4:34:30 AM - წევრის სტატუსის ცვლილება: წევრის სტატუსი შეიცვალა: Mishka Kharitonashvili -> Active
+2/27/2025 11:42:01 PM - პროგრამის შექმნა: შეიქმნა პროგრამა: CardioFitness, წევრი ID: 1, მწვრთნელი ID: 1002
+2/27/2025 11:43:01 PM - პროგრამის სტატუსის ცვლილება: პროგრამის სტატუსი შეიცვალა ID: 1 -> Cancelled
+2/28/2025 12:01:43 AM - მწვრთნელის დამატება: დაემატა მწვრთნელი: Giorgi Gomelauri
+2/28/2025 12:06:32 AM - პროგრამის შექმნა: შეიქმნა პროგრამა: StrengthTraining, წევრი ID: 1, მწვრთნელი ID: 1002
+2/28/2025 12:16:07 AM - Member Registration: Registered member: Kaxa Xaritonashvili
+2/28/2025 12:16:31 AM - წევრის სტატუსის ცვლილება: წევრის სტატუსი შეიცვალა: Kaxa Xaritonashvili -> Frozen
+2/28/2025 12:18:37 AM - Member Update: Updated member: Zaur Liparteliani
+2/28/2025 12:21:22 AM - Member Status Update: Member status changed: Zaur Liparteliani -> Expired
+2/28/2025 12:35:57 AM - Trainer Added: Trainer: Salome Tekashvili added
+2/28/2025 12:50:40 AM - პროგრამის განახლება: განახლდა პროგრამა ID: 1
+2/28/2025 12:51:29 AM - პროგრამის სტატუსის ცვლილება: პროგრამის სტატუსი შეიცვალა ID: 1 -> Completed
+2/28/2025 12:52:23 AM - პროგრამის განახლება: განახლდა პროგრამა ID: 2
+2/28/2025 12:53:08 AM - Member Update: Updated member: Misha saakashvili
+2/28/2025 12:53:13 AM - Member Status Update: Member status changed: Misha saakashvili -> Active
+2/28/2025 1:00:53 AM - Program Creation: Created program: Group, Member ID: 1, Trainer ID: 2003
+2/28/2025 1:09:55 AM - Program Update: Program ID: 1 updated
+2/28/2025 1:14:40 AM - Program Status Change: Program status changed ID: 1 -> Completed
+2/28/2025 3:50:09 AM - Member Status Update: Member status changed: Misha saakashvili -> Active
+2/28/2025 5:02:36 AM - Member Registration: Registered member: Lukson luksona
+2/28/2025 5:04:25 AM - Program Creation: Created program: CardioFitness, Member ID: 1002, Trainer ID: 2002
+3/3/2025 3:41:21 AM - Trainer Added: Trainer: Lika Kevlishvili added
+11/8/2025 3:42:33 PM - Member Registration: Registered member: misho dsdsd
